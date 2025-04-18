@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.env
+.env
+*.csv
+*.log
+*.sqlite3
+.DS_Store
+.dockerignore
+*.egg-info/
+config.py
