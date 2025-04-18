@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: raw
+    database: rental_data
+    schema: raw
+    tables:
+      - name: events
+      - name: properties
+      - name: tenants
+      - name: unit_attributes
